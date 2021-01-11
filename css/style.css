@@ -199,6 +199,7 @@ a {
     -webkit-box-direction: normal;
         -ms-flex-direction: column;
             flex-direction: column;
+
   }
   .content__competences1__boite__picto i {
     display: -webkit-box;
