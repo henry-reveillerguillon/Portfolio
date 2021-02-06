@@ -467,9 +467,7 @@ a {
     background-image: url("../images/animations.jpg");
     background-position: center;
   }
-  .contact__content {
-    padding: 50px 0 50px 0;
-  }
+
   .contact__content__titre {
     font-family: 'Roboto', sans-serif;
     font-weight: bold;
@@ -493,18 +491,8 @@ a {
     margin: 0 auto;
     margin-top: 10px;
   }
-  .contact__content .contact-form {
-    max-width: 60%;
-    margin: auto;
-    padding: 0 10px;
-    overflow: hidden;
-    -webkit-user-select: none;
-       -moz-user-select: none;
-        -ms-user-select: none;
-            user-select: none;
-  }
+
   .contact__content .contact-form-text {
-    display: block;
     width: 100%;
     -webkit-box-sizing: border-box;
             box-sizing: border-box;
