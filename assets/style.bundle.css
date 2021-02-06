@@ -3044,7 +3044,6 @@ html {
   #menu-button:hover #menu-button-icon .h-bar:nth-child(2)::before, #menu-button:hover #menu-button-icon .h-bar:nth-child(2)::after {
     animation-direction: reverse; }
   #menu-button.menu-open #menu-button-icon::before {
-    transition-delay: 0s;
     background-color: #f5f7fc; }
   #menu-button.menu-open #menu-button-hint .text-menu span {
     transform: translate3d(0, -80%, 0); }
