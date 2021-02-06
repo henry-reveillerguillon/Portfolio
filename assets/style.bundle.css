@@ -3148,7 +3148,6 @@ html {
   top: 0;
   left: 0;
   z-index: 190;
-  transition-delay: 1.5s;
   opacity: 0;
   pointer-events: none; }
   #menu::before {
