@@ -121,8 +121,8 @@ a {
     -webkit-box-align: center;
         -ms-flex-align: center;
             align-items: center;
-    width: 350px;
-    height: 350px;
+    width: 50px;
+    height: 50px;
   }
   .content__presentation__texte {
     width: 100%;
@@ -192,8 +192,7 @@ a {
     width: 100%;
   }
   .content__competences1__boite {
-    width: 50px;
-    height: 50px;
+    
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
@@ -204,8 +203,6 @@ a {
 
   }
   .content__competences1__boite__picto i {
-    width: 50px;
-    height: 50px;
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
