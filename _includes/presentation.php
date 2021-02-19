@@ -6,8 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Henry REVEILLER-GUILLON - Portfolio</title>
   <link rel="stylesheet" href="assets/style.bundle.css">
-  <link rel="stylesheet" href="css/font-awesome.min.css">
-  <link rel="stylesheet" href="css/style.css">
+  <link rel="stylesheet" href="asset/css/style.css">
 </head>
 <html lang="fr">
 
