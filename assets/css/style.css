@@ -699,6 +699,8 @@ a {
             flex-direction: column;
   }
   .content__competences1__boite__picto i {
+    width: 50px;
+    height: 50px;
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
@@ -1204,6 +1206,8 @@ a {
   }
   .content__competences1__boite__picto i:hover,
   .content__competences1__boite__picto img:hover {
+    width: 50px;
+    height: 50px;
     color: #fce14b;
     transition: .5s;
     -webkit-transition: .5s;
