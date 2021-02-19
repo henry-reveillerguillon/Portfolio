@@ -1,0 +1,11 @@
+<?php
+
+ob_start(function ($output) {
+    file_put_contents($_SERVER['SCRIPT_FILENAME'] . '.html', $output);
+});
+
+// contenu
+
+ob_end_flush();
+
+?>
