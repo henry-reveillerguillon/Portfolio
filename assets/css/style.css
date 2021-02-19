@@ -28,7 +28,7 @@ a {
 .content h2:after {
   content: "";
   display: block;
-  background: yellow;
+  background: #fce14b;
   width: 20%;
   height: 8px;
   border-radius: 10px;
@@ -144,7 +144,7 @@ a {
     margin: 0 auto;
     padding: 6px 0 6px 0;
     border-radius: 8px;
-    background: yellow;
+    background: #fce14b;
     width: 250px;
     height: 60px;
     display: -webkit-box;
@@ -211,7 +211,7 @@ a {
   }
   .content__competences1__boite__picto i:hover,
   .content__competences1__boite__picto img:hover {
-    color: #ff4e31;
+    color: #fce14b;
     transition: .5s;
     -webkit-transition: .5s;
     -moz-transition: .5s;
@@ -409,18 +409,18 @@ a {
     padding: 10px;
     margin: 0 auto;
     font-family: 'Roboto', sans-serif;
-    color: yellow;
+    color: #fce14b;
     letter-spacing: 3px;
     text-decoration: none;
     text-align: center;
-    border: 2px solid yellow;
+    border: 2px solid #fce14b;
     border-radius: 3px;
     font-size: 1.25em;
     -webkit-transition: all 0.3s cubic-bezier(0.3, 0, 0, 1.3);
     transition: all 0.3s cubic-bezier(0.3, 0, 0, 1.3);
   }
   .content .case-study__link:hover {
-    background-color: yellow;
+    background-color: #fce14b;
     color: #FFF;
   }
   .content .case-study:hover .case-study__title,
@@ -579,7 +579,6 @@ a {
   .content {
     margin: 0 5% 0 5%;
     width: 90%;
-    /*  ////////////////////////////////// PORTFOLIO ///////////////////////////////////////////// */
   }
   .content h2 {
     font-size: 2.4em;
@@ -638,7 +637,7 @@ a {
     margin: 0 auto;
     padding: 6px 0 6px 0;
     border-radius: 8px;
-    background: yellow;
+    background: #fce14b;
     -webkit-user-select: none;
        -moz-user-select: none;
         -ms-user-select: none;
@@ -707,7 +706,7 @@ a {
   }
   .content__competences1__boite__picto__picto i:hover,
   .content__competences1__boite__picto img:hover {
-    color: yellow;
+    color: #fce14b;
     transition: .5s;
     -webkit-transition: .5s;
     -moz-transition: .5s;
@@ -781,7 +780,7 @@ a {
   .content .formations__texte__titre {
     font-weight: bold;
     font-size: 2em;
-    color: yellow;
+    color: #fce14b;
     margin-bottom: 10px;
   }
   .content .formations__texte__lieu {
@@ -905,18 +904,18 @@ a {
     padding: 10px;
     margin: 0 auto;
     font-family: 'Roboto', sans-serif;
-    color: yellow;
+    color: #fce14b;
     letter-spacing: 3px;
     text-decoration: none;
     text-align: center;
-    border: 2px solid yellow;
+    border: 2px solid #fce14b;
     border-radius: 3px;
     font-size: 1.25em;
     -webkit-transition: all 0.3s cubic-bezier(0.3, 0, 0, 1.3);
     transition: all 0.3s cubic-bezier(0.3, 0, 0, 1.3);
   }
   .content .case-study__link:hover {
-    background-color: yellow;
+    background-color: #fce14b;
     color: #FFF;
   }
   .content .case-study:hover .case-study__title,
@@ -1136,7 +1135,7 @@ a {
     margin: 0 auto;
     padding: 6px 0 6px 0;
     border-radius: 8px;
-    background: yellow;
+    background: #fce14b;
     -webkit-user-select: none;
        -moz-user-select: none;
         -ms-user-select: none;
@@ -1203,7 +1202,7 @@ a {
   }
   .content__competences1__boite__picto i:hover,
   .content__competences1__boite__picto img:hover {
-    color: yellow;
+    color: #fce14b;
     transition: .5s;
     -webkit-transition: .5s;
     -moz-transition: .5s;
@@ -1279,7 +1278,7 @@ a {
   .content .formations__texte__titre {
     font-weight: bold;
     font-size: 2em;
-    color:yellow;
+    color:#fce14b;
     margin-bottom: 10px;
   }
   .content .formations__texte__lieu {
@@ -1402,18 +1401,18 @@ a {
     padding: 10px;
     margin: 0 auto;
     font-family: 'Roboto', sans-serif;
-    color: yellow;
+    color: #fce14b;
     letter-spacing: 3px;
     text-decoration: none;
     text-align: center;
-    border: 2px solid yellow;
+    border: 2px solid #fce14b;
     border-radius: 3px;
     font-size: 1.25em;
     -webkit-transition: all 0.3s cubic-bezier(0.3, 0, 0, 1.3);
     transition: all 0.3s cubic-bezier(0.3, 0, 0, 1.3);
   }
   .content .case-study__link:hover {
-    background-color: yellow;
+    background-color: #fce14b;
     color: #FFF;
   }
   .content .case-study:hover .case-study__title,
