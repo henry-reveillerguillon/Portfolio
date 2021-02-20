@@ -18,6 +18,13 @@ a {
   cursor: pointer;
 }
 
+.container {
+  height: 200px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
 .content h2 {
   font-family: 'Roboto', sans-serif;
   font-weight: bold;
