@@ -82,11 +82,8 @@ a {
       opacity: 0;
     }
   }
-  .content {
-    margin: 0 2.5%;
-    width: 95%;
-    /*  ////////////////////////////////// PORTFOLIO ///////////////////////////////////////////// */
-  }
+
+  
   .content h2 {
     font-size: 2.4em;
     margin: 70px 0 50px 0;
@@ -586,11 +583,6 @@ a {
               transform: translate(0, 10px) rotate(45deg);
       opacity: 0;
     }
-  }
-  .content {
-    margin: 0 5% 0 5%;
-    width: 90%;
-    /*  ////////////////////////////////// PORTFOLIO ///////////////////////////////////////////// */
   }
   .content h2 {
     font-size: 2.4em;
@@ -1131,10 +1123,6 @@ a {
               transform: translate(0, 10px) rotate(45deg);
       opacity: 0;
     }
-  }
-  .content {
-    margin: 0 10% 0 10%;
-    width: 80%;
   }
 
 
