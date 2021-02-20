@@ -5509,9 +5509,6 @@ a.button:hover::after {
   font-weight: 800;
   line-height: 1em;
 }
-#mybio #mybio-content {
-  padding-top: 50px;
-}
 #mybio #mybio-content #mybio-photo {
   display: inline-block;
   width: 200px;
