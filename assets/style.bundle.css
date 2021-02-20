@@ -3972,8 +3972,6 @@ a.button {
         overflow: hidden;
         font-size: 5vw; }
         @media (min-width: 992px) {
-          #home #home-content-wrapper #home-text-wrapper #home-name {
-            font-size: 50px; } }
         #home #home-content-wrapper #home-text-wrapper #home-name .name:nth-child(1) {
           display: inline-block;
           animation: name-arrive 0.5s cubic-bezier(0.42, 0, 0.11, 0.98) 0.4s both; }
