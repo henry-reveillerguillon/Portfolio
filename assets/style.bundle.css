@@ -5327,14 +5327,14 @@ a.button:hover::after {
 }
 @media (min-width: 1200px) {
   #home #home-content-wrapper #home-portfolio-word {
-    font-size: 200px;
+    font-size: 150px;
   }
 }
 #home #home-content-wrapper #home-portfolio-word .letter-path {
   fill: #fce14b;
 }
 #home #home-content-wrapper #home-portfolio-word .letter {
-  line-height: 0.5em;
+  line-height: 0.9em;
   margin: 0 2px;
 }
 #home #home-content-wrapper #home-portfolio-word .letter.dot {
@@ -5370,7 +5370,6 @@ a.button:hover::after {
 #home #home-content-wrapper #home-portfolio-word .letter:nth-child(3) {
   animation: letter-3 1s cubic-bezier(0.42, 0, 0.11, 0.98) 0.6s both;
 }
-
 @keyframes letter-4 {
   from {
     opacity: 0;
@@ -5380,7 +5379,6 @@ a.button:hover::after {
 #home #home-content-wrapper #home-portfolio-word .letter:nth-child(4) {
   animation: letter-4 1s cubic-bezier(0.42, 0, 0.11, 0.98) 0.6s both;
 }
-
 @keyframes letter-5 {
   from {
     opacity: 0;
@@ -5390,7 +5388,6 @@ a.button:hover::after {
 #home #home-content-wrapper #home-portfolio-word .letter:nth-child(5) {
   animation: letter-5 1s cubic-bezier(0.42, 0, 0.11, 0.98) 0.6s both;
 }
-
 @keyframes letter-6 {
   from {
     opacity: 0;
@@ -5400,7 +5397,6 @@ a.button:hover::after {
 #home #home-content-wrapper #home-portfolio-word .letter:nth-child(6) {
   animation: letter-6 1s cubic-bezier(0.42, 0, 0.11, 0.98) 0.6s both;
 }
-
 @keyframes letter-7 {
   from {
     opacity: 0;
@@ -5420,7 +5416,6 @@ a.button:hover::after {
 #home #home-content-wrapper #home-portfolio-word .letter:nth-child(8) {
   animation: letter-8 1s cubic-bezier(0.42, 0, 0.11, 0.98) 0.6s both;
 }
-
 @keyframes letter-9 {
   from {
     opacity: 0;
@@ -5430,7 +5425,6 @@ a.button:hover::after {
 #home #home-content-wrapper #home-portfolio-word .letter:nth-child(9) {
   animation: letter-9 1s cubic-bezier(0.42, 0, 0.11, 0.98) 0.6s both;
 }
-
 @keyframes letter-10 {
   from {
     opacity: 0;
@@ -5440,7 +5434,6 @@ a.button:hover::after {
 #home #home-content-wrapper #home-portfolio-word .letter:nth-child(10) {
   animation: letter-10 1s cubic-bezier(0.42, 0, 0.11, 0.98) 0.6s both;
 }
-
 @keyframes letter-11 {
   from {
     opacity: 0;
@@ -5450,6 +5443,72 @@ a.button:hover::after {
 #home #home-content-wrapper #home-portfolio-word .letter:nth-child(11) {
   animation: letter-11 1s cubic-bezier(0.42, 0, 0.11, 0.98) 0.6s both;
 }
+
+@keyframes letter-12 {
+  from {
+    opacity: 0;
+    transform: translate3d(300px, 0, 0);
+  }
+}
+#home #home-content-wrapper #home-portfolio-word .letter:nth-child(12) {
+  animation: letter-12 1s cubic-bezier(0.42, 0, 0.11, 0.98) 0.6s both;
+}
+@keyframes letter-13 {
+  from {
+    opacity: 0;
+    transform: translate3d(330px, 0, 0);
+  }
+}
+#home #home-content-wrapper #home-portfolio-word .letter:nth-child(13) {
+  animation: letter-13 1s cubic-bezier(0.42, 0, 0.11, 0.98) 0.6s both;
+}
+@keyframes letter-14 {
+  from {
+    opacity: 0;
+    transform: translate3d(360px, 0, 0);
+  }
+}
+#home #home-content-wrapper #home-portfolio-word .letter:nth-child(14) {
+  animation: letter-14 1s cubic-bezier(0.42, 0, 0.11, 0.98) 0.6s both;
+}
+@keyframes letter-15 {
+  from {
+    opacity: 0;
+    transform: translate3d(390px, 0, 0);
+  }
+}
+#home #home-content-wrapper #home-portfolio-word .letter:nth-child(15) {
+  animation: letter-15 1s cubic-bezier(0.42, 0, 0.11, 0.98) 0.6s both;
+}
+@keyframes letter-16 {
+  from {
+    opacity: 0;
+    transform: translate3d(420px, 0, 0);
+  }
+}
+#home #home-content-wrapper #home-portfolio-word .letter:nth-child(16) {
+  animation: letter-16 1s cubic-bezier(0.42, 0, 0.11, 0.98) 0.6s both;
+}
+@keyframes letter-17 {
+  from {
+    opacity: 0;
+    transform: translate3d(450px, 0, 0);
+  }
+}
+#home #home-content-wrapper #home-portfolio-word .letter:nth-child(17) {
+  animation: letter-17 1s cubic-bezier(0.42, 0, 0.11, 0.98) 0.6s both;
+}
+@keyframes letter-18 {
+  from {
+    opacity: 0;
+    transform: translate3d(480px, 0, 0);
+  }
+}
+#home #home-content-wrapper #home-portfolio-word .letter:nth-child(18) {
+  animation: letter-18 1s cubic-bezier(0.42, 0, 0.11, 0.98) 0.6s both;
+}
+
+
 #home #home-content-wrapper #arrow-scroll {
   position: absolute;
   left: 50%;
