@@ -9,9 +9,9 @@ body {
 /* HOME */
 
 .home {
-    /* background-image: ; */
-    background-color: #343739;
-    height: 800px;
+    background-image: url("https://cdn.discordapp.com/attachments/773169421089767485/840281727665831996/DSC8105.jpg");
+    height: 850px;
+    background-size: cover;
 }
 
 .home h1 {
