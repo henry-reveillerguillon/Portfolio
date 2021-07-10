@@ -83,7 +83,7 @@ body {
 /* SKILL  */
 
 .skill {
-  background-color: gray;
+  background-color: #939597;
   height: 611px;
 }
 .skill h1 {
@@ -140,9 +140,25 @@ body {
 
 /* ABOUT FIN  */
 
+/* INSTA  */
+
+.insta {
+  background-color: #939597;
+  height: 1500px;
+}
+
+.insta h1 {
+  font-weight: bold;
+  text-align: center;
+  font-size: 80px;
+  padding-top: 100px;
+  padding-bottom: 60px;
+}
+/* INSTA FIN  */
+
 /* FOOTER  */
 
-footer{
+.footer{
 /* background-image: ; */
     margin-top: 80px;
     background-color:#343739;
