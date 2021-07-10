@@ -51,6 +51,7 @@ body {
 
 .achievements {
     height: 611px;
+    
 }
 
 .achievements h1{
@@ -68,6 +69,7 @@ body {
     height: 300px;
     border-radius: 100%;
     background: #343739;
+    display: inline-block;
 }
 
 .cercle h3 {
@@ -99,6 +101,7 @@ body {
   text-align: center;
   padding: 20px;
   border-radius: 10px;
+  display: inline-block;
 }
 
 .skill-cards h2 {
@@ -136,3 +139,25 @@ body {
 }
 
 /* ABOUT FIN  */
+
+/* FOOTER  */
+
+footer{
+/* background-image: ; */
+    margin-top: 80px;
+    background-color:#343739;
+    padding: 30px 0 30px 0;
+}
+
+.footer p {
+  color: white;
+}
+
+.footer p {
+  color: white;
+}
+
+.footer h3 {
+  color: #F2E05B;
+}
+/* FOOTER FIN  */
