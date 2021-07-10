@@ -144,7 +144,6 @@ body {
 
 .insta {
   background-color: #939597;
-  height: 1500px;
 }
 
 .insta h1 {
@@ -155,6 +154,44 @@ body {
   padding-bottom: 60px;
 }
 /* INSTA FIN  */
+
+
+
+/* CONTACT  */
+
+.contact h1 {
+  font-weight: bold;
+  text-align: center;
+  font-size: 80px;
+  padding-top: 100px;
+  padding-bottom: 60px;
+}
+
+.contact-cards {
+  background-color: #3A3A3A;
+  height: auto;
+  width: 400px;
+  text-align: center;
+  padding: 20px;
+  border-radius: 10px;
+  display: inline-block;
+}
+
+.contact-cards h2 {
+  color: #F5DF4D;
+}
+
+.contact-cards p {
+  color: white;
+  font-size: 20px;
+}
+
+.contact-cards img {
+  width: 50px;
+  height: 50px;
+}
+
+/* CONTACT FIN  */
 
 /* FOOTER  */
 
